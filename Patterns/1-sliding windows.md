@@ -1,6 +1,6 @@
 Here's your DSA Patterns documentation in your preferred style, using Markdown:
 
-```markdown
+
 # DSA Patterns - Sliding Window
 
 ## Definitions
